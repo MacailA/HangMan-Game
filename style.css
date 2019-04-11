@@ -8,12 +8,14 @@ h1{
     background-color: antiquewhite;
     margin-top: 100px;
     margin-left: 10px;
+    
 }
 
 img{
-    align-content: center;
-    background-color: blue;
-    position: relative;
+    /* align-content: center; */
+    /* background-color: blue; */
+    /* position: absolute; */
+    display: inline-block;
 }
 
 #attemps{
