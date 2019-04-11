@@ -1,3 +1,3 @@
 # HangMan-Game
 
-<img scr="./HangMan-WhiteBoard.png">
+/Users/macail/wdi/SandBox/Project-1-SEI-21/Hang-Man-Game/HangMan-Wireframe.png
