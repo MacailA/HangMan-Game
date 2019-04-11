@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: gray;
+}
+
+#scoreboard{
+    display: inline-block;
+    background-color: antiquewhite;
+    margin-top: 100px;
+}
+
+img{
+    align-content: center;
+    background-color: blue;
+    position: relative;
+}
+
+#attemps{
+    display: inline-block;
+    background-color: antiquewhite;
+}
