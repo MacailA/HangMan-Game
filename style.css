@@ -19,3 +19,7 @@ img{
     display: inline-block;
     background-color: antiquewhite;
 }
+
+.Letters{
+    display: flex;
+}
