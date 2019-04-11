@@ -1,4 +1,6 @@
 # HangMan-Game
+Project Board Links - https://trello.com/invite/b/W3LnuPom/7667f5ebfc2a9e98d31c168081cf700f/sei-21 
+                      https://trello.com/b/W3LnuPom/sei-21
 
 HangMan-Wireframe & WhiteBoard
 
