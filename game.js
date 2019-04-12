@@ -34,9 +34,18 @@ if (guess === null) {
 } else if (guess.length !== 1) {
     alert("Please enter a single letter.");
 } else {
+
     // Update the game state with the guess }
 
+    for (var l = 0; l < word.length; l++) {
+        if (word[l] === guess) {
+            answerArray[l] = guess; remainingLetters--;
+        }
+    }
+}
 
-
+// Show the answer and congratulate the player
+alert(answerArray.join(" "));
+alert("Good job! The answer was " + word);
 
 
