@@ -1,12 +1,12 @@
 Let words = [
-"Important",
-"Dragon",
-"Noah",
-"Stanly",
-"Supriya",
-"Jordan",
-"Stickman",
-"Apple",
-"Apex",
-"Playstation"
+"important",
+"dragon",
+"noah",
+"stanly",
+"supriya",
+"jordan",
+"stickman",
+"apple",
+"apex",
+"playstation"
 ];
