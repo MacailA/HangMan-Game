@@ -37,7 +37,7 @@ if (guess === null) {
 
     // Update the game state with the guess }
 
-    for (var l = 0; l < word.length; l++) {
+    for (let l = 0; l < word.length; l++) {
         if (word[l] === guess) {
             answerArray[l] = guess; remainingLetters--;
         }
