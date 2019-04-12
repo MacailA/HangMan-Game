@@ -1,3 +1,4 @@
+
 Let words = [
 "important",
 "dragon",
@@ -10,3 +11,5 @@ Let words = [
 "apex",
 "playstation"
 ];
+
+let word = words[Math.floor(Math.random() * words.length)];
